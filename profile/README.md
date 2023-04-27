@@ -7,4 +7,6 @@ Here are the components around Blamer, GitHub-Telegram notifications router incl
 
 * [/hub](https://github.com/blamer-io/hub) is a Blamer Core Engine
 
+* [/notifications](https://github.com/blamer-io/notifications) is a GitHub inbox watcher that Blamer use
+
 By the way, here is [the list of things](https://github.com/blamer-io/ideas/issues) we want to implement. You can help!
