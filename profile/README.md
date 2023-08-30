@@ -3,7 +3,7 @@
 
 Integration and Dispatching GitHub notifications to your Telegram.
 <br>
-Here are the components around Blamer, GitHub-Telegram notifications router including:
+Here are the components around Blamer, including:
 
 * [/bot](https://github.com/blamer-io/bot) is a Telegram Bot
 
